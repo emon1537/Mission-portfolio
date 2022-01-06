@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+h1{
+    font-size: 50px;
+    margin: 0px;
+    padding-left: 2%;
+    
+}
+.stay {
+    color:orangered;
+}
+.felexible-container{
+    display: flex;
+    padding-top: 5%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 65%;
+
+    
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.focus{
+    border-left: 4px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
+    border-radius: 10%;
+
+}
+.year{
+    color: orangered;
+}
+h2{
+    font-size: 40px;
+}
+
+
+.complete-developer{
+    width: 85%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px10px50px gray;
+    border-radius: 10%;
+    padding-left: 10px;
+    padding-top: 6%;
+
+}
+#mission{
+    background-image: url(mission-2022-main/images/illustrators/illustrator-1.png)
+    ;
+   background-repeat: no-repeat;
+   background-size: 90px;
+    background-color: #edf5f6;
+
+}
+#vission{
+    background-image: url(mission-2022-main/images/illustrators/illustrator-2.png)
+    ;
+   background-repeat: no-repeat;
+   background-size: 90px;
+    background-color: #ffeeee;
+}
+#goal{
+    background-image: url(mission-2022-main/images/illustrators/illustrator-3.png)
+    ;
+   background-repeat: no-repeat;
+   background-size: 90px;
+   background-color:#fff4d6 ;
+}
